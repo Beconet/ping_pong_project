@@ -1,0 +1,5 @@
+Name Project: ping pong score keeper
+pactice about project i use:
+html
+javascript
+bulma
